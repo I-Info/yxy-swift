@@ -7,8 +7,8 @@ let package = Package(
     name: "yxy",
     products: [
         .library(
-            name: "YXY",
-            targets: ["YXY"]),
+            name: "yxy",
+            targets: ["yxy"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -16,8 +16,8 @@ let package = Package(
     ],
     targets: [
 		.binaryTarget(
-			name: "YXY",
-			url: "https://github.com/I-Info/yxy/releases/download/v0.1.5/xcframework-universal-v0.1.5.zip",
-			checksum: "03b92a7b6e6a68885936263e0d6204c852cd6c5402500d5a46b3b3499867d942"),
+			name: "yxy",
+			url: "https://github.com/I-Info/yxy/releases/download/v0.1.6/xcframework-universal-v0.1.6.zip",
+			checksum: "fc8d10c43efb2ac997c47b1b1eb54b5fd2bcc270fd53e6af5a2b0318f5a0d8fc"),
     ]
 )
