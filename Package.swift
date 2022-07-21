@@ -18,6 +18,6 @@ let package = Package(
 		.binaryTarget(
 			name: "yxy",
 			url: "https://github.com/I-Info/yxy/releases/download/v0.1.6/xcframework-universal-v0.1.6.zip",
-			checksum: "fc8d10c43efb2ac997c47b1b1eb54b5fd2bcc270fd53e6af5a2b0318f5a0d8fc"),
+			checksum: "d4e12555c153578d47497fb9790c3fbccc83e877a3ba403b25c8a9d463fdfa89"),
     ]
 )
