@@ -1,1 +1,2 @@
-# YXY Swift Library
+# YXY Swift
+YXY library Swift package
