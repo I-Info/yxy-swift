@@ -17,7 +17,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "yxy",
-            url: "https://github.com/I-Info/yxy/releases/download/v0.2.1+0-1-0.0-1-0/xcframework-universal.zip",
-            checksum: "e72a90a33f8c0276adc633941f7ce9677641b0e783c26c026086edc74ed41561"
+            url: "https://github.com/I-Info/yxy/releases/download/v1.0.0/xcframework-universal.zip",
+            checksum: "362a1a6b673b74b2a6cd08e2884b24731472a088e9a6ad210ceec4b11a397c9f"
     ]
 )
